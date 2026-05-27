@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicecelete",
+        "uuid": 19334952,
+        "checksum": "tcch1"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
